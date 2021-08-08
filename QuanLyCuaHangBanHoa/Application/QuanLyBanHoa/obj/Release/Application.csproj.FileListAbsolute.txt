@@ -1,0 +1,118 @@
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\QuanLyBanHoa.exe.config
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\FontAwesome.Sharp.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\System.Buffers.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\System.Memory.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\System.Numerics.Vectors.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\System.Buffers.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\System.Memory.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\System.Numerics.Vectors.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.AddProduct.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.Customers.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.Setting.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.MainScreen.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.login.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Products.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Properties.Resources.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\Application.csproj.GenerateResource.cache
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\Application.csproj.CoreCompileInputs.cache
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\Application.csproj.CopyComplete
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Release\Application.csprojAssemblyReference.cache
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.exe.config
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\FontAwesome.Sharp.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Buffers.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Memory.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Numerics.Vectors.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Buffers.xml
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Memory.xml
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Numerics.Vectors.xml
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csprojAssemblyReference.cache
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.AddProduct.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.ChangePassword.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.CreateAccount.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.Customers.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.ImportGoods.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.SellProduct.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.Setting.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.UserInformation.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.UserManagement.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.MainScreen.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.login.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Products.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Properties.Resources.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.GenerateResource.cache
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.CoreCompileInputs.cache
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.CopyComplete
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.pdb
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.exe.config
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.exe
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.pdb
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\FontAwesome.Sharp.dll
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Buffers.dll
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Memory.dll
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Numerics.Vectors.dll
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Buffers.xml
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Memory.xml
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Numerics.Vectors.xml
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.AssemblyReference.cache
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.AddProduct.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.ChangePassword.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.CreateAccount.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.Customers.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.ImportGoods.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.SellProduct.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.Setting.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.UserInformation.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.UserManagement.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.MainScreen.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.login.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Products.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Properties.Resources.resources
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.GenerateResource.cache
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.CopyComplete
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.exe
+D:\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.pdb
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.exe.config
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.exe
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\QuanLyBanHoa.pdb
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\FontAwesome.Sharp.dll
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Buffers.dll
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Memory.dll
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Numerics.Vectors.dll
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Buffers.xml
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Memory.xml
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Numerics.Vectors.xml
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.AssemblyReference.cache
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.AddProduct.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.ChangePassword.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.CreateAccount.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.Customers.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.ImportGoods.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.SellProduct.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.Setting.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.UserInformation.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Forms.UserManagement.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.MainScreen.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.login.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Products.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.Properties.Resources.resources
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.GenerateResource.cache
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.CoreCompileInputs.cache
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\Application.csproj.CopyComplete
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.exe
+D:\LTTQ\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Release\QuanLyBanHoa.pdb
